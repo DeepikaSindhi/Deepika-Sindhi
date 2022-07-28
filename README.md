@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DeepikaSindhi
-- 👀 I’m interested in Technical Writing
+- 👀 I am a Technical Writer
 - 🌱 I’m currently learning about Git and GitHub.
 - 💞️ I’m looking to collaborate on documenting services.
 
